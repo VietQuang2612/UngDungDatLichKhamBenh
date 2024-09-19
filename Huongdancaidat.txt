@@ -1,0 +1,13 @@
+Ứng dụng đặt lịch khám phòng bệnh mạch tư (YouMed)
+- Bạn phải cài đặt 2 ứng dụng cần thiết để chạy được app và tải file source code
++ AndroidStudio ( https://developer.android.com/studio?hl=vi )
++ DB Browser (SQL Lite) (https://sqlitebrowser.org/dl/ - tải phiên bản Standard installer for 32bit windows )
++ https://drive.google.com/drive/u/1/folders/1WOxidHtNu6LMp6Fha-kjcb-g_0BPoJvv
+
+-https://drive.google.com/drive/u/1/folders/1WOxidHtNu6LMp6Fha-kjcb-g_0BPoJvv
++ Sau khi tải về, giải nén, vào AndroiStudio và open folder chứa code và chạy thử
++ Nhưng để chạy được, bạn phải kết nối được máy ảo trong AndroidStuio, ở đây theo như file docx, thì máy ảo đang đuợc sử dụng là Medium Phone API 35 ( có thể chọn loại máy ảo khác tuỳ theo máy bạn có thể chạy được)
++ Sau khi đã chạy được máy ảo và đã mở folder chứa code bạn nhấn Shift  + F10 để chạy code và xem thử ứng dụng
+
+
+
